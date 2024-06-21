@@ -1,0 +1,9 @@
+INFO 2024-06-21 11:09:30,250 quadratic_formula(1, 0, -1)
+DEBUG 2024-06-21 11:09:30,250 # compute the discriminant: 
+DEBUG 2024-06-21 11:09:30,250 # found 2 distinct solutions: 
+INFO 2024-06-21 11:09:30,250 quadratic_formula(1, 0, 1)
+DEBUG 2024-06-21 11:09:30,250 # compute the discriminant: 
+WARNING 2024-06-21 11:09:30,250 # No solution: found delta < 0 
+INFO 2024-06-21 11:09:30,251 quadratic_formula(-1, 0, 1)
+DEBUG 2024-06-21 11:09:30,251 # compute the discriminant: 
+DEBUG 2024-06-21 11:09:30,251 # found 2 distinct solutions: 
