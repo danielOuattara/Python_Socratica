@@ -1,0 +1,10 @@
+I am the author of the Python programming language. 
+See also my resume and my publications list, a brief 
+bio, assorted writings, presentations and interviews 
+(all about Python), some pictures of me, my new blog, 
+and my old blog on Artima.com. I am @gvanrossum on Twitter.
+
+I am currently a Distinguished Engineer at Microsoft. 
+I have worked for Dropbox, Google, Elemental Security, 
+Zope Corporation, BeOpen.com, CNRI, CWI, and SARA. 
+(See my resume.) I created Python while at CWI. 
