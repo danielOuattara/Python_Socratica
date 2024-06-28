@@ -1,0 +1,12 @@
+ERROR:root:[Errno 2] No such file or directory: 'imaginary.png'
+ERROR:root:[Errno 2] No such file or directory: 'imaginary.png'
+ERROR:root:[Errno 2] No such file or directory: 'imaginary.png'
+INFO:root:Time required for ./33_gvr.jpg = 3.6716461181640625e-05
+INFO:root:Time required for ./33_gvr.jpg file = 0.041246 ms
+INFO:root:Time required for ./33_gvr.jpg file = 0.021935 ms
+INFO:root:Time required for ./33_gvr.jpg file = 0.027180 ms
+INFO:root:Time required for ./33_gvr.jpg file = 0.026703 ms
+INFO:root:Time required for ./33_gvr.jpg file = 0.041723 ms
+INFO:root:Time required for ./33_gvr.jpg file = 23.603439 nano s
+INFO:root:Time required for ./33_gvr.jpg file = 0.020504 ms
+ERROR:root:[Errno 2] No such file or directory: './33_gvr_2.jpg'
